@@ -1,5 +1,3 @@
-# Note Taker with Express
-
 ## Description
 Create a app that take the users notes and stores them with Express
 
