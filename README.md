@@ -28,4 +28,3 @@ Japheth Bruce and
 
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
 * [dbader](https://github.com/dbader/readme-template)
-  
